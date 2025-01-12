@@ -4,6 +4,9 @@ import streamlit as st
 import joblib
 import pandas as pd
 from sklearn.preprocessing import StandardScaler
+import os, sys
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+from src.predict_alerts import generate_alerts
 
 scaler = StandardScaler()
 
@@ -15,7 +18,7 @@ dbscan_model = joblib.load('data/models/dbscan_model.pkl')
 st.set_page_config(
     page_title="Mid-Day Meal Analytics",
     page_icon="🍽️",
-    layout="wide", # To fit full screen
+    #layout="wide", # To fit full screen
 )
 # App Header
 st.title("Mid-Day Meal Analytics")
@@ -88,16 +91,29 @@ if uploaded_file:
 
 
 
+
+
+
 # Here, we can embed our powerbi dashboard
 st.header("PowerBI Visualization Dashboard")
 
 url = "https://app.powerbi.com/view?r=eyJrIjoiYjc2NmRkOGQtZDYxYi00YTg2LTllNDctZWYwMTU1MTU0MDlkIiwidCI6ImY2YjZkZDViLWYwMmYtNDQxYS05OWEwLTE2MmFjNTA2MGJkMiIsImMiOjZ9"
 st.components.v1.html(
     f"""
-    <iframe title="MDM Dashboard" width="1420" height="800" src="{url}" frameborder="0" allowFullScreen="true"></iframe>
+    <iframe title="MDM_Dashboard" width="900" height="400.25" src="https://app.powerbi.com/reportEmbed?reportId=b1cc65e1-407f-4fe7-85b7-24f9df98213f&autoAuth=true&ctid=f6b6dd5b-f02f-441a-99a0-162ac5060bd2" frameborder="0" allowFullScreen="true"></iframe>
     """,
-    height=1080,
+    height=420,
 )
+
+
+
+if st.button("Generate Alert Logs"):
+    # Generating Alerts
+    generate_alerts()
+    alert_logs = pd.read_csv("data/processed/alerts.csv") 
+    st.write("Generated Alert Logs")
+    st.dataframe(alert_logs)
+
 
 
 
