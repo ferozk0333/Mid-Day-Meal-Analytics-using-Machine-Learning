@@ -1,7 +1,7 @@
 # Mid-Day Meal Analytics Using Machine Learning
 
 The Mid-Day Meal Scheme is a government initiative in India that provides free, nutritious meals to school children to improve their health, encourage school attendance, and reduce dropout rates. However, inefficiencies in ground-level implementation lead to distribution malpractices.
-This project leverages machine learning and visualization tools (PowerBI) to enhance the transparency, efficiency, and accountability of the world's largest school meal program. This end-to-end solution integrates predictive analytics, anomaly detection, and interactive dashboards to ensure food quality and identify discrepancies in meal distribution.
+This end-to-end solution integrates predictive analytics, anomaly detection, and interactive dashboards to ensure food quality and identify discrepancies in meal distribution.
 
 ---
 
