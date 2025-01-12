@@ -1,0 +1,608 @@
+audit_id,school_id,date,auditor_name,hygiene_score,remarks,remarks_encoded
+1,1,2021-01-01,Auditor_1,7.83,Satisfactory,3
+2,1,2021-01-03,Auditor_1,7.75,Satisfactory,3
+3,1,2021-01-05,Auditor_1,7.67,Satisfactory,3
+4,1,2021-01-06,Auditor_1,7.58,Satisfactory,3
+5,1,2021-01-07,Auditor_1,7.5,Needs Improvement,2
+6,1,2021-01-08,Auditor_1,7.42,Needs Improvement,2
+8,1,2021-01-09,Auditor_1,7.34,Needs Improvement,2
+11,1,2021-01-10,Auditor_1,7.25,Needs Improvement,2
+12,1,2021-01-11,Auditor_1,7.17,Needs Improvement,2
+14,1,2021-01-12,Auditor_1,7.09,Needs Improvement,2
+15,1,2021-01-13,Auditor_1,7.01,Needs Improvement,2
+16,1,2021-01-14,Auditor_1,6.93,Needs Improvement,2
+18,1,2021-01-16,Auditor_1,6.84,Needs Improvement,2
+20,1,2021-01-17,Auditor_1,6.76,Needs Improvement,2
+22,1,2021-01-19,Auditor_1,6.68,Needs Improvement,2
+24,1,2021-01-20,Auditor_1,6.6,Needs Improvement,2
+26,1,2021-01-24,Auditor_1,6.51,Needs Improvement,2
+28,1,2021-01-27,Auditor_1,6.43,Needs Improvement,2
+29,1,2021-02-01,Auditor_1,6.35,Needs Improvement,2
+31,1,2021-02-04,Auditor_1,6.56,Needs Improvement,2
+32,1,2021-02-05,Auditor_1,6.76,Needs Improvement,2
+33,1,2021-02-06,Auditor_1,6.97,Needs Improvement,2
+34,1,2021-02-07,Auditor_1,7.18,Needs Improvement,2
+36,1,2021-02-08,Auditor_1,7.38,Needs Improvement,2
+37,1,2021-02-10,Auditor_1,7.59,Satisfactory,3
+39,1,2021-02-13,Auditor_1,7.8,Satisfactory,3
+40,1,2021-02-16,Auditor_1,8.0,Good,1
+41,1,2021-02-17,Auditor_1,8.21,Good,1
+43,1,2021-02-20,Auditor_1,8.42,Good,1
+45,1,2021-02-21,Auditor_1,8.62,Good,1
+46,1,2021-02-22,Auditor_1,8.83,Good,1
+49,1,2021-02-23,Auditor_1,9.04,Good,1
+50,1,2021-02-28,Auditor_1,9.24,Good,1
+51,1,2021-03-01,Auditor_1,9.45,Good,1
+53,1,2021-03-03,Auditor_1,9.38,Good,1
+54,1,2021-03-04,Auditor_1,9.31,Good,1
+56,1,2021-03-06,Auditor_1,9.24,Good,1
+58,1,2021-03-08,Auditor_1,9.17,Good,1
+61,1,2021-03-09,Auditor_1,9.1,Good,1
+62,1,2021-03-10,Auditor_1,9.03,Good,1
+63,1,2021-03-11,Auditor_1,8.96,Good,1
+64,1,2021-03-13,Auditor_1,8.89,Good,1
+65,1,2021-03-15,Auditor_1,8.82,Good,1
+66,1,2021-03-16,Auditor_1,8.69,Good,1
+67,1,2021-03-18,Auditor_1,8.56,Good,1
+68,1,2021-03-23,Auditor_1,8.42,Good,1
+70,1,2021-03-26,Auditor_1,8.29,Good,1
+71,1,2021-03-27,Auditor_1,8.16,Good,1
+74,1,2021-04-02,Auditor_1,8.03,Good,1
+75,1,2021-04-03,Auditor_1,7.9,Satisfactory,3
+77,1,2021-04-04,Auditor_1,7.77,Satisfactory,3
+78,1,2021-04-05,Auditor_1,7.63,Satisfactory,3
+80,1,2021-04-06,Auditor_1,7.5,Needs Improvement,2
+81,1,2021-04-08,Auditor_1,7.37,Needs Improvement,2
+82,1,2021-04-09,Auditor_1,7.24,Needs Improvement,2
+84,1,2021-04-10,Auditor_1,7.11,Needs Improvement,2
+85,1,2021-04-12,Auditor_1,6.98,Needs Improvement,2
+86,1,2021-04-13,Auditor_1,6.84,Needs Improvement,2
+87,1,2021-04-14,Auditor_1,6.71,Needs Improvement,2
+90,1,2021-04-15,Auditor_1,6.58,Needs Improvement,2
+91,1,2021-04-16,Auditor_1,6.63,Needs Improvement,2
+92,1,2021-04-18,Auditor_1,6.69,Needs Improvement,2
+94,1,2021-04-19,Auditor_1,6.74,Needs Improvement,2
+95,1,2021-04-21,Auditor_1,6.79,Needs Improvement,2
+98,1,2021-04-22,Auditor_1,6.85,Needs Improvement,2
+100,1,2021-04-23,Auditor_1,6.9,Needs Improvement,2
+101,1,2021-04-24,Auditor_1,6.95,Needs Improvement,2
+104,1,2021-04-26,Auditor_1,7.01,Needs Improvement,2
+106,1,2021-04-27,Auditor_1,7.06,Needs Improvement,2
+107,1,2021-04-28,Auditor_1,7.12,Needs Improvement,2
+110,1,2021-05-03,Auditor_1,7.17,Needs Improvement,2
+111,1,2021-05-04,Auditor_1,7.22,Needs Improvement,2
+112,1,2021-05-05,Auditor_1,7.28,Needs Improvement,2
+114,1,2021-05-06,Auditor_1,7.33,Needs Improvement,2
+115,1,2021-05-08,Auditor_1,7.38,Needs Improvement,2
+117,1,2021-05-10,Auditor_1,7.44,Needs Improvement,2
+119,1,2021-05-11,Auditor_1,7.49,Needs Improvement,2
+121,1,2021-05-12,Auditor_1,7.54,Satisfactory,3
+122,1,2021-05-14,Auditor_1,7.6,Satisfactory,3
+123,1,2021-05-17,Auditor_1,7.65,Satisfactory,3
+124,1,2021-05-18,Auditor_1,7.7,Satisfactory,3
+125,1,2021-05-19,Auditor_1,7.76,Satisfactory,3
+126,1,2021-05-20,Auditor_1,7.81,Satisfactory,3
+127,1,2021-05-21,Auditor_1,7.86,Satisfactory,3
+130,1,2021-05-23,Auditor_1,7.92,Satisfactory,3
+131,1,2021-06-02,Auditor_1,7.97,Satisfactory,3
+132,1,2021-06-03,Auditor_1,8.03,Good,1
+134,1,2021-06-06,Auditor_1,8.08,Good,1
+137,1,2021-06-08,Auditor_1,8.13,Good,1
+138,1,2021-06-09,Auditor_1,8.19,Good,1
+140,1,2021-06-10,Auditor_1,8.24,Good,1
+141,1,2021-06-12,Auditor_1,8.29,Good,1
+143,1,2021-06-14,Auditor_1,8.35,Good,1
+144,1,2021-06-15,Auditor_1,8.4,Good,1
+145,1,2021-06-16,Auditor_1,8.4,Good,1
+146,1,2021-06-17,Auditor_1,8.4,Good,1
+148,1,2021-06-18,Auditor_1,8.4,Good,1
+149,1,2021-06-20,Auditor_1,8.4,Good,1
+151,1,2021-06-21,Auditor_1,8.4,Good,1
+152,1,2021-06-22,Auditor_1,8.4,Good,1
+153,1,2021-06-26,Auditor_1,8.4,Good,1
+155,1,2021-06-27,Auditor_1,8.4,Good,1
+156,1,2021-06-28,Auditor_1,8.4,Good,1
+157,1,2021-07-02,Auditor_1,8.4,Good,1
+159,1,2021-07-03,Auditor_1,8.41,Good,1
+160,1,2021-07-06,Auditor_1,8.41,Good,1
+163,1,2021-07-07,Auditor_1,8.41,Good,1
+164,1,2021-07-08,Auditor_1,8.41,Good,1
+165,1,2021-07-10,Auditor_1,8.41,Good,1
+166,1,2021-07-13,Auditor_1,8.41,Good,1
+167,1,2021-07-14,Auditor_1,8.41,Good,1
+168,1,2021-07-18,Auditor_1,8.41,Good,1
+171,1,2021-07-19,Auditor_1,8.41,Good,1
+173,1,2021-07-20,Auditor_1,8.41,Good,1
+174,1,2021-07-21,Auditor_1,8.41,Good,1
+175,1,2021-07-22,Auditor_1,8.41,Good,1
+176,1,2021-07-24,Auditor_1,8.41,Good,1
+177,1,2021-07-26,Auditor_1,8.41,Good,1
+178,1,2021-07-28,Auditor_1,8.41,Good,1
+180,1,2021-08-01,Auditor_1,8.41,Good,1
+181,1,2021-08-03,Auditor_1,8.41,Good,1
+184,1,2021-08-07,Auditor_1,8.41,Good,1
+185,1,2021-08-08,Auditor_1,8.41,Good,1
+187,1,2021-08-09,Auditor_1,8.41,Good,1
+189,1,2021-08-11,Auditor_1,8.42,Good,1
+190,1,2021-08-14,Auditor_1,8.42,Good,1
+191,1,2021-08-16,Auditor_1,8.42,Good,1
+192,1,2021-08-17,Auditor_1,8.42,Good,1
+194,1,2021-08-18,Auditor_1,8.42,Good,1
+195,1,2021-08-22,Auditor_1,8.42,Good,1
+197,1,2021-08-23,Auditor_1,8.42,Good,1
+198,1,2021-08-24,Auditor_1,8.42,Good,1
+199,1,2021-08-25,Auditor_1,8.42,Good,1
+200,1,2021-08-27,Auditor_1,8.42,Good,1
+201,1,2021-09-01,Auditor_1,8.42,Good,1
+202,1,2021-09-02,Auditor_1,8.19,Good,1
+203,1,2021-09-05,Auditor_1,7.96,Satisfactory,3
+204,1,2021-09-07,Auditor_1,7.73,Satisfactory,3
+206,1,2021-09-08,Auditor_1,7.5,Needs Improvement,2
+207,1,2021-09-10,Auditor_1,7.26,Needs Improvement,2
+208,1,2021-09-12,Auditor_1,7.03,Needs Improvement,2
+210,1,2021-09-14,Auditor_1,6.8,Needs Improvement,2
+211,1,2021-09-15,Auditor_1,6.57,Needs Improvement,2
+212,1,2021-09-16,Auditor_1,6.71,Needs Improvement,2
+213,1,2021-09-18,Auditor_1,6.84,Needs Improvement,2
+215,1,2021-09-20,Auditor_1,6.98,Needs Improvement,2
+216,1,2021-09-21,Auditor_1,7.12,Needs Improvement,2
+218,1,2021-09-22,Auditor_1,7.25,Needs Improvement,2
+219,1,2021-09-23,Auditor_1,7.39,Needs Improvement,2
+223,1,2021-09-24,Auditor_1,7.52,Satisfactory,3
+225,1,2021-09-25,Auditor_1,7.66,Satisfactory,3
+226,1,2021-09-26,Auditor_1,7.8,Satisfactory,3
+229,1,2021-09-28,Auditor_1,7.93,Satisfactory,3
+230,1,2021-10-01,Auditor_1,8.07,Good,1
+231,1,2021-10-04,Auditor_1,7.99,Satisfactory,3
+232,1,2021-10-05,Auditor_1,7.91,Satisfactory,3
+233,1,2021-10-06,Auditor_1,7.82,Satisfactory,3
+234,1,2021-10-07,Auditor_1,7.74,Satisfactory,3
+235,1,2021-10-08,Auditor_1,7.66,Satisfactory,3
+237,1,2021-10-10,Auditor_1,7.58,Satisfactory,3
+238,1,2021-10-11,Auditor_1,7.5,Needs Improvement,2
+239,1,2021-10-12,Auditor_1,7.41,Needs Improvement,2
+240,1,2021-10-13,Auditor_1,7.33,Needs Improvement,2
+241,1,2021-10-14,Auditor_1,7.25,Needs Improvement,2
+242,1,2021-10-16,Auditor_1,7.17,Needs Improvement,2
+243,1,2021-10-18,Auditor_1,7.09,Needs Improvement,2
+245,1,2021-10-19,Auditor_1,7.0,Needs Improvement,2
+246,1,2021-10-20,Auditor_1,6.92,Needs Improvement,2
+247,1,2021-10-21,Auditor_1,6.84,Needs Improvement,2
+248,1,2021-10-24,Auditor_1,6.76,Needs Improvement,2
+249,1,2021-10-25,Auditor_1,6.68,Needs Improvement,2
+250,1,2021-10-27,Auditor_1,6.59,Needs Improvement,2
+251,1,2021-10-28,Auditor_1,6.51,Needs Improvement,2
+254,1,2021-11-01,Auditor_1,6.43,Needs Improvement,2
+255,1,2021-11-03,Auditor_1,6.51,Needs Improvement,2
+259,1,2021-11-05,Auditor_1,6.59,Needs Improvement,2
+261,1,2021-11-06,Auditor_1,6.67,Needs Improvement,2
+262,1,2021-11-07,Auditor_1,6.76,Needs Improvement,2
+264,1,2021-11-09,Auditor_1,6.84,Needs Improvement,2
+265,1,2021-11-10,Auditor_1,6.92,Needs Improvement,2
+266,1,2021-11-11,Auditor_1,7.0,Needs Improvement,2
+267,1,2021-11-13,Auditor_1,7.08,Needs Improvement,2
+268,1,2021-11-14,Auditor_1,7.16,Needs Improvement,2
+269,1,2021-11-16,Auditor_1,7.24,Needs Improvement,2
+270,1,2021-11-17,Auditor_1,7.32,Needs Improvement,2
+273,1,2021-11-21,Auditor_1,7.41,Needs Improvement,2
+274,1,2021-11-26,Auditor_1,7.49,Needs Improvement,2
+276,1,2021-11-27,Auditor_1,7.57,Satisfactory,3
+279,1,2021-11-28,Auditor_1,7.65,Satisfactory,3
+281,1,2021-12-01,Auditor_1,7.73,Satisfactory,3
+283,1,2021-12-02,Auditor_1,7.73,Satisfactory,3
+285,1,2021-12-06,Auditor_1,7.73,Satisfactory,3
+286,1,2021-12-08,Auditor_1,7.73,Satisfactory,3
+287,1,2021-12-09,Auditor_1,7.73,Satisfactory,3
+288,1,2021-12-10,Auditor_1,7.73,Satisfactory,3
+289,1,2021-12-11,Auditor_1,7.73,Satisfactory,3
+290,1,2021-12-13,Auditor_1,7.73,Satisfactory,3
+292,1,2021-12-16,Auditor_1,7.73,Satisfactory,3
+295,1,2021-12-17,Auditor_1,7.73,Satisfactory,3
+297,1,2021-12-18,Auditor_1,7.73,Satisfactory,3
+298,1,2021-12-21,Auditor_1,7.73,Satisfactory,3
+299,1,2021-12-27,Auditor_1,7.73,Satisfactory,3
+300,1,2021-12-28,Auditor_1,7.73,Satisfactory,3
+301,2,2021-01-01,Auditor_2,7.91,Satisfactory,3
+302,2,2021-01-02,Auditor_2,7.98,Satisfactory,3
+303,2,2021-01-04,Auditor_2,8.05,Good,1
+304,2,2021-01-05,Auditor_2,8.12,Good,1
+305,2,2021-01-10,Auditor_2,8.19,Good,1
+307,2,2021-01-11,Auditor_2,8.25,Good,1
+309,2,2021-01-12,Auditor_2,8.32,Good,1
+311,2,2021-01-13,Auditor_2,8.39,Good,1
+312,2,2021-01-14,Auditor_2,8.46,Good,1
+314,2,2021-01-16,Auditor_2,8.53,Good,1
+315,2,2021-01-17,Auditor_2,8.6,Good,1
+316,2,2021-01-19,Auditor_2,8.67,Good,1
+317,2,2021-01-20,Auditor_2,8.74,Good,1
+319,2,2021-01-21,Auditor_2,8.81,Good,1
+323,2,2021-01-25,Auditor_2,8.88,Good,1
+324,2,2021-01-27,Auditor_2,8.94,Good,1
+325,2,2021-01-28,Auditor_2,9.01,Good,1
+326,2,2021-02-07,Auditor_2,9.08,Good,1
+327,2,2021-02-09,Auditor_2,9.15,Good,1
+328,2,2021-02-11,Auditor_2,9.22,Good,1
+329,2,2021-02-13,Auditor_2,9.29,Good,1
+330,2,2021-02-17,Auditor_2,9.36,Good,1
+331,2,2021-02-18,Auditor_2,9.43,Good,1
+332,2,2021-02-21,Auditor_2,9.5,Excellent,0
+333,2,2021-02-22,Auditor_2,9.57,Excellent,0
+335,2,2021-02-24,Auditor_2,9.63,Excellent,0
+336,2,2021-02-25,Auditor_2,9.7,Excellent,0
+338,2,2021-02-27,Auditor_2,9.77,Excellent,0
+339,2,2021-02-28,Auditor_2,9.84,Excellent,0
+340,2,2021-03-01,Auditor_2,9.91,Excellent,0
+341,2,2021-03-02,Auditor_2,9.89,Excellent,0
+344,2,2021-03-03,Auditor_2,9.87,Excellent,0
+345,2,2021-03-04,Auditor_2,9.86,Excellent,0
+347,2,2021-03-05,Auditor_2,9.84,Excellent,0
+348,2,2021-03-08,Auditor_2,9.82,Excellent,0
+349,2,2021-03-10,Auditor_2,9.8,Excellent,0
+351,2,2021-03-13,Auditor_2,9.79,Excellent,0
+352,2,2021-03-14,Auditor_2,9.77,Excellent,0
+353,2,2021-03-15,Auditor_2,9.75,Excellent,0
+355,2,2021-03-16,Auditor_2,9.73,Excellent,0
+356,2,2021-03-17,Auditor_2,9.7,Excellent,0
+357,2,2021-03-18,Auditor_2,9.68,Excellent,0
+358,2,2021-03-19,Auditor_2,9.65,Excellent,0
+359,2,2021-03-20,Auditor_2,9.63,Excellent,0
+360,2,2021-03-21,Auditor_2,9.6,Excellent,0
+361,2,2021-03-22,Auditor_2,9.58,Excellent,0
+362,2,2021-03-23,Auditor_2,9.55,Excellent,0
+364,2,2021-03-25,Auditor_2,9.53,Excellent,0
+365,2,2021-03-26,Auditor_2,9.5,Excellent,0
+367,2,2021-03-27,Auditor_2,9.48,Good,1
+368,2,2021-04-02,Auditor_2,9.45,Good,1
+369,2,2021-04-05,Auditor_2,9.43,Good,1
+370,2,2021-04-06,Auditor_2,9.41,Good,1
+371,2,2021-04-07,Auditor_2,9.38,Good,1
+373,2,2021-04-09,Auditor_2,9.36,Good,1
+375,2,2021-04-10,Auditor_2,9.33,Good,1
+377,2,2021-04-12,Auditor_2,9.31,Good,1
+378,2,2021-04-13,Auditor_2,9.28,Good,1
+379,2,2021-04-16,Auditor_2,9.26,Good,1
+380,2,2021-04-17,Auditor_2,9.23,Good,1
+381,2,2021-04-18,Auditor_2,9.21,Good,1
+383,2,2021-04-19,Auditor_2,9.18,Good,1
+384,2,2021-04-20,Auditor_2,9.16,Good,1
+386,2,2021-04-21,Auditor_2,9.14,Good,1
+387,2,2021-04-23,Auditor_2,9.11,Good,1
+388,2,2021-04-24,Auditor_2,9.09,Good,1
+389,2,2021-04-25,Auditor_2,9.06,Good,1
+391,2,2021-04-26,Auditor_2,9.04,Good,1
+392,2,2021-04-27,Auditor_2,9.01,Good,1
+393,2,2021-04-28,Auditor_2,8.99,Good,1
+395,2,2021-05-01,Auditor_2,8.96,Good,1
+396,2,2021-05-02,Auditor_2,8.94,Good,1
+397,2,2021-05-03,Auditor_2,8.91,Good,1
+400,2,2021-05-05,Auditor_2,8.89,Good,1
+401,2,2021-05-06,Auditor_2,8.86,Good,1
+404,2,2021-05-07,Auditor_2,8.84,Good,1
+408,2,2021-05-08,Auditor_2,8.82,Good,1
+411,2,2021-05-09,Auditor_2,8.79,Good,1
+413,2,2021-05-14,Auditor_2,8.77,Good,1
+414,2,2021-05-15,Auditor_2,8.74,Good,1
+415,2,2021-05-16,Auditor_2,8.72,Good,1
+416,2,2021-05-17,Auditor_2,8.69,Good,1
+418,2,2021-05-18,Auditor_2,8.67,Good,1
+419,2,2021-05-19,Auditor_2,8.64,Good,1
+420,2,2021-05-21,Auditor_2,8.62,Good,1
+422,2,2021-05-22,Auditor_2,8.59,Good,1
+423,2,2021-05-25,Auditor_2,8.57,Good,1
+424,2,2021-05-28,Auditor_2,8.54,Good,1
+425,2,2021-06-01,Auditor_2,8.52,Good,1
+426,2,2021-06-02,Auditor_2,8.49,Good,1
+428,2,2021-06-03,Auditor_2,8.45,Good,1
+429,2,2021-06-05,Auditor_2,8.42,Good,1
+430,2,2021-06-09,Auditor_2,8.38,Good,1
+434,2,2021-06-10,Auditor_2,8.35,Good,1
+435,2,2021-06-11,Auditor_2,8.31,Good,1
+437,2,2021-06-12,Auditor_2,8.28,Good,1
+440,2,2021-06-13,Auditor_2,8.24,Good,1
+441,2,2021-06-16,Auditor_2,8.21,Good,1
+442,2,2021-06-19,Auditor_2,8.17,Good,1
+443,2,2021-06-22,Auditor_2,8.14,Good,1
+447,2,2021-06-24,Auditor_2,8.1,Good,1
+448,2,2021-06-25,Auditor_2,8.07,Good,1
+449,2,2021-06-26,Auditor_2,8.03,Good,1
+450,2,2021-06-27,Auditor_2,8.0,Good,1
+451,2,2021-06-28,Auditor_2,7.96,Satisfactory,3
+452,2,2021-07-02,Auditor_2,7.93,Satisfactory,3
+457,2,2021-07-03,Auditor_2,7.89,Satisfactory,3
+459,2,2021-07-04,Auditor_2,7.86,Satisfactory,3
+460,2,2021-07-08,Auditor_2,7.82,Satisfactory,3
+461,2,2021-07-09,Auditor_2,7.79,Satisfactory,3
+462,2,2021-07-11,Auditor_2,7.75,Satisfactory,3
+463,2,2021-07-12,Auditor_2,7.72,Satisfactory,3
+465,2,2021-07-14,Auditor_2,7.68,Satisfactory,3
+467,2,2021-07-15,Auditor_2,7.65,Satisfactory,3
+468,2,2021-07-17,Auditor_2,7.66,Satisfactory,3
+469,2,2021-07-18,Auditor_2,7.68,Satisfactory,3
+471,2,2021-07-19,Auditor_2,7.69,Satisfactory,3
+472,2,2021-07-21,Auditor_2,7.7,Satisfactory,3
+475,2,2021-07-23,Auditor_2,7.71,Satisfactory,3
+476,2,2021-07-24,Auditor_2,7.73,Satisfactory,3
+477,2,2021-07-25,Auditor_2,7.74,Satisfactory,3
+478,2,2021-07-26,Auditor_2,7.75,Satisfactory,3
+479,2,2021-07-28,Auditor_2,7.77,Satisfactory,3
+480,2,2021-08-03,Auditor_2,7.78,Satisfactory,3
+481,2,2021-08-04,Auditor_2,7.79,Satisfactory,3
+482,2,2021-08-06,Auditor_2,7.8,Satisfactory,3
+483,2,2021-08-08,Auditor_2,7.82,Satisfactory,3
+486,2,2021-08-09,Auditor_2,7.83,Satisfactory,3
+487,2,2021-08-10,Auditor_2,7.84,Satisfactory,3
+488,2,2021-08-11,Auditor_2,7.85,Satisfactory,3
+490,2,2021-08-13,Auditor_2,7.87,Satisfactory,3
+491,2,2021-08-15,Auditor_2,7.88,Satisfactory,3
+492,2,2021-08-16,Auditor_2,7.89,Satisfactory,3
+493,2,2021-08-18,Auditor_2,7.91,Satisfactory,3
+494,2,2021-08-20,Auditor_2,7.92,Satisfactory,3
+495,2,2021-08-21,Auditor_2,7.93,Satisfactory,3
+497,2,2021-08-23,Auditor_2,7.94,Satisfactory,3
+498,2,2021-08-27,Auditor_2,7.96,Satisfactory,3
+499,2,2021-08-28,Auditor_2,7.97,Satisfactory,3
+500,2,2021-09-02,Auditor_2,7.98,Satisfactory,3
+502,2,2021-09-03,Auditor_2,8.0,Good,1
+505,2,2021-09-05,Auditor_2,8.01,Good,1
+506,2,2021-09-06,Auditor_2,8.02,Good,1
+507,2,2021-09-08,Auditor_2,8.03,Good,1
+508,2,2021-09-10,Auditor_2,8.05,Good,1
+509,2,2021-09-12,Auditor_2,8.06,Good,1
+510,2,2021-09-13,Auditor_2,8.07,Good,1
+511,2,2021-09-16,Auditor_2,8.08,Good,1
+512,2,2021-09-20,Auditor_2,8.1,Good,1
+513,2,2021-09-21,Auditor_2,8.11,Good,1
+514,2,2021-09-22,Auditor_2,8.12,Good,1
+515,2,2021-09-24,Auditor_2,8.14,Good,1
+518,2,2021-09-25,Auditor_2,8.15,Good,1
+519,2,2021-09-26,Auditor_2,8.16,Good,1
+520,2,2021-09-27,Auditor_2,8.17,Good,1
+521,2,2021-09-28,Auditor_2,8.19,Good,1
+522,2,2021-10-01,Auditor_2,8.2,Good,1
+524,2,2021-10-02,Auditor_2,8.25,Good,1
+525,2,2021-10-07,Auditor_2,8.31,Good,1
+526,2,2021-10-08,Auditor_2,8.36,Good,1
+528,2,2021-10-10,Auditor_2,8.41,Good,1
+529,2,2021-10-12,Auditor_2,8.47,Good,1
+531,2,2021-10-15,Auditor_2,8.52,Good,1
+532,2,2021-10-16,Auditor_2,8.4,Good,1
+537,2,2021-10-18,Auditor_2,8.28,Good,1
+538,2,2021-10-21,Auditor_2,8.17,Good,1
+539,2,2021-10-22,Auditor_2,8.05,Good,1
+541,2,2021-10-24,Auditor_2,7.93,Satisfactory,3
+542,2,2021-10-25,Auditor_2,7.81,Satisfactory,3
+543,2,2021-10-26,Auditor_2,7.69,Satisfactory,3
+546,2,2021-10-27,Auditor_2,7.58,Satisfactory,3
+548,2,2021-10-28,Auditor_2,7.46,Needs Improvement,2
+550,2,2021-11-01,Auditor_2,7.34,Needs Improvement,2
+551,2,2021-11-02,Auditor_2,7.54,Satisfactory,3
+552,2,2021-11-03,Auditor_2,7.75,Satisfactory,3
+553,2,2021-11-04,Auditor_2,7.95,Satisfactory,3
+554,2,2021-11-05,Auditor_2,8.16,Good,1
+556,2,2021-11-08,Auditor_2,8.36,Good,1
+557,2,2021-11-11,Auditor_2,8.57,Good,1
+560,2,2021-11-12,Auditor_2,8.77,Good,1
+562,2,2021-11-14,Auditor_2,8.98,Good,1
+563,2,2021-11-15,Auditor_2,9.18,Good,1
+564,2,2021-11-16,Auditor_2,9.17,Good,1
+565,2,2021-11-19,Auditor_2,9.16,Good,1
+566,2,2021-11-21,Auditor_2,9.15,Good,1
+567,2,2021-11-23,Auditor_2,9.14,Good,1
+568,2,2021-11-25,Auditor_2,9.12,Good,1
+571,2,2021-11-27,Auditor_2,9.11,Good,1
+572,2,2021-11-28,Auditor_2,9.1,Good,1
+573,2,2021-12-01,Auditor_2,9.09,Good,1
+575,2,2021-12-02,Auditor_2,9.09,Good,1
+576,2,2021-12-03,Auditor_2,9.09,Good,1
+577,2,2021-12-05,Auditor_2,9.09,Good,1
+578,2,2021-12-06,Auditor_2,9.09,Good,1
+579,2,2021-12-07,Auditor_2,9.09,Good,1
+580,2,2021-12-08,Auditor_2,9.09,Good,1
+581,2,2021-12-12,Auditor_2,9.09,Good,1
+584,2,2021-12-13,Auditor_2,9.09,Good,1
+587,2,2021-12-17,Auditor_2,9.09,Good,1
+588,2,2021-12-18,Auditor_2,9.09,Good,1
+589,2,2021-12-19,Auditor_2,9.09,Good,1
+590,2,2021-12-20,Auditor_2,9.09,Good,1
+592,2,2021-12-21,Auditor_2,9.09,Good,1
+593,2,2021-12-22,Auditor_2,9.09,Good,1
+595,2,2021-12-24,Auditor_2,9.09,Good,1
+596,2,2021-12-25,Auditor_2,9.09,Good,1
+599,2,2021-12-27,Auditor_2,9.09,Good,1
+601,3,2021-01-03,Auditor_3,7.03,Needs Improvement,2
+602,3,2021-01-05,Auditor_3,7.04,Needs Improvement,2
+603,3,2021-01-06,Auditor_3,7.05,Needs Improvement,2
+604,3,2021-01-08,Auditor_3,7.06,Needs Improvement,2
+606,3,2021-01-09,Auditor_3,7.07,Needs Improvement,2
+609,3,2021-01-12,Auditor_3,7.08,Needs Improvement,2
+610,3,2021-01-15,Auditor_3,7.09,Needs Improvement,2
+611,3,2021-01-16,Auditor_3,7.14,Needs Improvement,2
+612,3,2021-01-17,Auditor_3,7.19,Needs Improvement,2
+615,3,2021-01-18,Auditor_3,7.24,Needs Improvement,2
+616,3,2021-01-20,Auditor_3,7.29,Needs Improvement,2
+617,3,2021-01-22,Auditor_3,7.35,Needs Improvement,2
+618,3,2021-01-23,Auditor_3,7.4,Needs Improvement,2
+619,3,2021-01-24,Auditor_3,7.45,Needs Improvement,2
+621,3,2021-01-26,Auditor_3,7.5,Needs Improvement,2
+622,3,2021-01-27,Auditor_3,7.55,Satisfactory,3
+624,3,2021-02-03,Auditor_3,7.6,Satisfactory,3
+626,3,2021-02-04,Auditor_3,7.65,Satisfactory,3
+627,3,2021-02-08,Auditor_3,7.7,Satisfactory,3
+628,3,2021-02-11,Auditor_3,7.75,Satisfactory,3
+629,3,2021-02-12,Auditor_3,7.8,Satisfactory,3
+630,3,2021-02-13,Auditor_3,7.85,Satisfactory,3
+632,3,2021-02-15,Auditor_3,7.9,Satisfactory,3
+636,3,2021-02-16,Auditor_3,7.93,Satisfactory,3
+637,3,2021-02-17,Auditor_3,7.95,Satisfactory,3
+638,3,2021-02-18,Auditor_3,7.98,Satisfactory,3
+639,3,2021-02-19,Auditor_3,8.01,Good,1
+640,3,2021-02-20,Auditor_3,8.03,Good,1
+643,3,2021-02-21,Auditor_3,8.06,Good,1
+644,3,2021-02-22,Auditor_3,8.08,Good,1
+645,3,2021-02-23,Auditor_3,8.11,Good,1
+646,3,2021-02-27,Auditor_3,8.13,Good,1
+647,3,2021-03-01,Auditor_3,8.16,Good,1
+648,3,2021-03-02,Auditor_3,8.16,Good,1
+650,3,2021-03-03,Auditor_3,8.16,Good,1
+651,3,2021-03-07,Auditor_3,8.17,Good,1
+653,3,2021-03-08,Auditor_3,8.17,Good,1
+654,3,2021-03-09,Auditor_3,8.18,Good,1
+658,3,2021-03-10,Auditor_3,8.18,Good,1
+659,3,2021-03-11,Auditor_3,8.19,Good,1
+660,3,2021-03-12,Auditor_3,8.19,Good,1
+663,3,2021-03-13,Auditor_3,8.19,Good,1
+665,3,2021-03-15,Auditor_3,8.2,Good,1
+666,3,2021-03-16,Auditor_3,8.14,Good,1
+667,3,2021-03-18,Auditor_3,8.07,Good,1
+668,3,2021-03-20,Auditor_3,8.01,Good,1
+669,3,2021-03-22,Auditor_3,7.94,Satisfactory,3
+670,3,2021-03-25,Auditor_3,7.88,Satisfactory,3
+672,3,2021-03-27,Auditor_3,7.82,Satisfactory,3
+674,3,2021-03-28,Auditor_3,7.75,Satisfactory,3
+677,3,2021-04-01,Auditor_3,7.69,Satisfactory,3
+679,3,2021-04-03,Auditor_3,7.73,Satisfactory,3
+681,3,2021-04-04,Auditor_3,7.76,Satisfactory,3
+684,3,2021-04-05,Auditor_3,7.8,Satisfactory,3
+685,3,2021-04-06,Auditor_3,7.84,Satisfactory,3
+687,3,2021-04-08,Auditor_3,7.88,Satisfactory,3
+688,3,2021-04-10,Auditor_3,7.91,Satisfactory,3
+690,3,2021-04-11,Auditor_3,7.95,Satisfactory,3
+691,3,2021-04-13,Auditor_3,7.99,Satisfactory,3
+692,3,2021-04-17,Auditor_3,8.03,Good,1
+693,3,2021-04-19,Auditor_3,8.06,Good,1
+694,3,2021-04-22,Auditor_3,8.1,Good,1
+695,3,2021-04-23,Auditor_3,8.14,Good,1
+696,3,2021-04-25,Auditor_3,8.17,Good,1
+698,3,2021-04-27,Auditor_3,8.21,Good,1
+699,3,2021-04-28,Auditor_3,8.25,Good,1
+701,3,2021-05-01,Auditor_3,8.29,Good,1
+702,3,2021-05-02,Auditor_3,8.32,Good,1
+704,3,2021-05-04,Auditor_3,8.36,Good,1
+706,3,2021-05-05,Auditor_3,8.4,Good,1
+707,3,2021-05-08,Auditor_3,8.44,Good,1
+708,3,2021-05-09,Auditor_3,8.47,Good,1
+710,3,2021-05-10,Auditor_3,8.51,Good,1
+711,3,2021-05-11,Auditor_3,8.55,Good,1
+713,3,2021-05-12,Auditor_3,8.58,Good,1
+714,3,2021-05-13,Auditor_3,8.62,Good,1
+715,3,2021-05-14,Auditor_3,8.66,Good,1
+716,3,2021-05-15,Auditor_3,8.7,Good,1
+718,3,2021-05-22,Auditor_3,8.73,Good,1
+721,3,2021-05-23,Auditor_3,8.77,Good,1
+723,3,2021-05-24,Auditor_3,8.81,Good,1
+724,3,2021-05-26,Auditor_3,8.85,Good,1
+725,3,2021-05-28,Auditor_3,8.88,Good,1
+726,3,2021-06-02,Auditor_3,8.92,Good,1
+727,3,2021-06-05,Auditor_3,8.96,Good,1
+728,3,2021-06-07,Auditor_3,8.99,Good,1
+730,3,2021-06-08,Auditor_3,9.03,Good,1
+732,3,2021-06-09,Auditor_3,9.07,Good,1
+733,3,2021-06-12,Auditor_3,9.11,Good,1
+734,3,2021-06-13,Auditor_3,9.14,Good,1
+735,3,2021-06-14,Auditor_3,9.18,Good,1
+736,3,2021-06-15,Auditor_3,9.22,Good,1
+738,3,2021-06-17,Auditor_3,9.31,Good,1
+741,3,2021-06-18,Auditor_3,9.41,Good,1
+742,3,2021-06-19,Auditor_3,9.5,Excellent,0
+744,3,2021-06-20,Auditor_3,9.6,Excellent,0
+747,3,2021-06-21,Auditor_3,9.69,Excellent,0
+748,3,2021-06-22,Auditor_3,9.78,Excellent,0
+749,3,2021-06-24,Auditor_3,9.88,Excellent,0
+750,3,2021-06-26,Auditor_3,9.97,Excellent,0
+751,3,2021-06-28,Auditor_3,10.07,Excellent,0
+753,3,2021-07-01,Auditor_3,10.16,Excellent,0
+755,3,2021-07-06,Auditor_3,10.1,Excellent,0
+757,3,2021-07-11,Auditor_3,10.03,Excellent,0
+758,3,2021-07-12,Auditor_3,9.97,Excellent,0
+760,3,2021-07-13,Auditor_3,9.9,Excellent,0
+761,3,2021-07-14,Auditor_3,9.84,Excellent,0
+763,3,2021-07-16,Auditor_3,9.77,Excellent,0
+764,3,2021-07-18,Auditor_3,9.71,Excellent,0
+766,3,2021-07-19,Auditor_3,9.64,Excellent,0
+767,3,2021-07-20,Auditor_3,9.58,Excellent,0
+768,3,2021-07-22,Auditor_3,9.51,Excellent,0
+769,3,2021-07-23,Auditor_3,9.45,Good,1
+770,3,2021-07-24,Auditor_3,9.38,Good,1
+772,3,2021-07-26,Auditor_3,9.32,Good,1
+774,3,2021-07-28,Auditor_3,9.25,Good,1
+776,3,2021-08-01,Auditor_3,9.19,Good,1
+777,3,2021-08-02,Auditor_3,9.12,Good,1
+779,3,2021-08-03,Auditor_3,9.06,Good,1
+780,3,2021-08-05,Auditor_3,8.99,Good,1
+781,3,2021-08-06,Auditor_3,8.93,Good,1
+783,3,2021-08-08,Auditor_3,8.86,Good,1
+785,3,2021-08-09,Auditor_3,8.8,Good,1
+787,3,2021-08-10,Auditor_3,8.74,Good,1
+788,3,2021-08-13,Auditor_3,8.67,Good,1
+789,3,2021-08-14,Auditor_3,8.61,Good,1
+790,3,2021-08-16,Auditor_3,8.54,Good,1
+792,3,2021-08-17,Auditor_3,8.48,Good,1
+793,3,2021-08-18,Auditor_3,8.41,Good,1
+795,3,2021-08-20,Auditor_3,8.35,Good,1
+796,3,2021-08-21,Auditor_3,8.28,Good,1
+798,3,2021-08-23,Auditor_3,8.22,Good,1
+799,3,2021-08-24,Auditor_3,8.15,Good,1
+800,3,2021-08-25,Auditor_3,8.09,Good,1
+801,3,2021-08-26,Auditor_3,8.02,Good,1
+804,3,2021-09-01,Auditor_3,7.96,Satisfactory,3
+806,3,2021-09-03,Auditor_3,8.0,Good,1
+809,3,2021-09-05,Auditor_3,8.04,Good,1
+810,3,2021-09-09,Auditor_3,8.09,Good,1
+811,3,2021-09-10,Auditor_3,8.13,Good,1
+813,3,2021-09-14,Auditor_3,8.18,Good,1
+817,3,2021-09-16,Auditor_3,8.22,Good,1
+818,3,2021-09-18,Auditor_3,8.26,Good,1
+820,3,2021-09-19,Auditor_3,8.31,Good,1
+823,3,2021-09-20,Auditor_3,8.35,Good,1
+824,3,2021-09-21,Auditor_3,8.39,Good,1
+825,3,2021-09-24,Auditor_3,8.44,Good,1
+827,3,2021-09-26,Auditor_3,8.48,Good,1
+828,3,2021-09-27,Auditor_3,8.53,Good,1
+829,3,2021-10-02,Auditor_3,8.57,Good,1
+831,3,2021-10-03,Auditor_3,8.61,Good,1
+832,3,2021-10-04,Auditor_3,8.66,Good,1
+833,3,2021-10-05,Auditor_3,8.7,Good,1
+835,3,2021-10-06,Auditor_3,8.74,Good,1
+838,3,2021-10-07,Auditor_3,8.79,Good,1
+840,3,2021-10-09,Auditor_3,8.83,Good,1
+842,3,2021-10-10,Auditor_3,8.87,Good,1
+843,3,2021-10-12,Auditor_3,8.92,Good,1
+844,3,2021-10-15,Auditor_3,8.96,Good,1
+846,3,2021-10-18,Auditor_3,9.03,Good,1
+847,3,2021-10-22,Auditor_3,9.09,Good,1
+849,3,2021-10-24,Auditor_3,9.15,Good,1
+850,3,2021-10-26,Auditor_3,9.22,Good,1
+851,3,2021-11-01,Auditor_3,9.28,Good,1
+852,3,2021-11-03,Auditor_3,9.42,Good,1
+854,3,2021-11-04,Auditor_3,9.57,Excellent,0
+856,3,2021-11-05,Auditor_3,9.71,Excellent,0
+858,3,2021-11-08,Auditor_3,9.85,Excellent,0
+859,3,2021-11-09,Auditor_3,9.99,Excellent,0
+860,3,2021-11-10,Auditor_3,10.13,Excellent,0
+861,3,2021-11-12,Auditor_3,10.27,Excellent,0
+862,3,2021-11-14,Auditor_3,10.41,Excellent,0
+863,3,2021-11-16,Auditor_3,10.55,Excellent,0
+864,3,2021-11-18,Auditor_3,10.69,Excellent,0
+865,3,2021-11-19,Auditor_3,10.83,Excellent,0
+867,3,2021-11-23,Auditor_3,10.97,Excellent,0
+869,3,2021-11-26,Auditor_3,11.11,Excellent,0
+871,3,2021-11-27,Auditor_3,11.26,Excellent,0
+873,3,2021-12-01,Auditor_3,11.4,Excellent,0
+874,3,2021-12-02,Auditor_3,11.04,Excellent,0
+875,3,2021-12-05,Auditor_3,10.69,Excellent,0
+877,3,2021-12-08,Auditor_3,10.34,Excellent,0
+878,3,2021-12-10,Auditor_3,9.98,Excellent,0
+880,3,2021-12-11,Auditor_3,9.63,Excellent,0
+882,3,2021-12-12,Auditor_3,9.28,Good,1
+883,3,2021-12-13,Auditor_3,8.92,Good,1
+884,3,2021-12-14,Auditor_3,8.57,Good,1
+885,3,2021-12-15,Auditor_3,8.22,Good,1
+886,3,2021-12-16,Auditor_3,8.23,Good,1
+889,3,2021-12-18,Auditor_3,8.24,Good,1
+891,3,2021-12-19,Auditor_3,8.25,Good,1
+893,3,2021-12-20,Auditor_3,8.26,Good,1
+894,3,2021-12-21,Auditor_3,8.27,Good,1
+896,3,2021-12-23,Auditor_3,8.28,Good,1
+898,3,2021-12-24,Auditor_3,8.29,Good,1
+899,3,2021-12-26,Auditor_3,8.3,Good,1
+900,3,2021-12-27,Auditor_3,8.31,Good,1
