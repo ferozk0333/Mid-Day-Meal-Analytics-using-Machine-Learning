@@ -32,9 +32,8 @@ This project leverages machine learning and visualization tools (PowerBI) to enh
 
 ### 3. PowerBI Dashboard
 - **Visualize**:
-  - Food quality predictions and summary statistics.
   - DAX queries to derive new columns.
-  - Drill-down Analytics joining multiple tables.
+  - Summary statistics and drill-down Analytics joining multiple tables.
 
 ---
 
